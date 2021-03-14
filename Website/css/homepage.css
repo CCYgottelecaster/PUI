@@ -1,0 +1,255 @@
+h1, h2 {
+  font-family: "Baskerville";
+  line-height: 60%;
+  color: #fff;
+}
+h1 {
+  font-size:50px;
+}
+h2 {
+  font-size:20px;
+}
+h3, h4, label {
+  vertical-align:middle;
+  font-size:20px;
+  font-weight:900;
+  font-family: "Baskerville";
+  color:#59697e;
+}
+h3 {
+  font-size:30px;
+
+}
+.operation, .evaluation {
+  vertical-align:middle;
+}
+.operation, .p-title {
+  vertical-align:middle;
+}
+.selection {
+  text-align: center;
+  line-height: 40px;
+}
+h5 {
+  font-family: "Baskerville";
+  color:#59697e;
+  font-size:30px;
+  line-height: 0;
+}
+
+h6 {
+  font-family: "Baskerville";
+  color:#59697e;
+  font-size:15px;
+  font-style:italic;
+}
+.search {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+#searchBar {
+  line-height: 0;
+  width: 450px;
+  height: 40px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.searchButton {
+  line-height: 0;
+  background-size:40px 40px;
+  padding: 20px;
+  border: 0;
+  vertical-align:middle;
+  padding:0;
+}
+#cart, #profile {
+  background-color: #59697e;
+  line-height: 0;
+  border: 0;
+  background-size:30px 30px;
+  padding: 15px;
+  padding: 0;
+
+}
+.cartButton, .likeButton {
+  background-color: #fff;
+  line-height: 0;
+  border: 0;
+  padding: 3px;
+}
+.logo {
+  display: inline-block;
+}
+.navigationBar {
+  display: inline-block;
+}
+#buyButton {
+  background-color: #dabb11;
+  width: 120px;
+  height: 50px;
+  border:0px;
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  font-family: "Baskerville";
+}
+
+a {
+  text-decoration:none;
+  color: #fff;
+  font-family: "Baskerville";
+}
+.logo, .navigationBar {
+  vertical-align:middle;
+
+}
+
+ul.navigation li {
+  font-family: "Baskerville";
+  display:inline-block;
+  color: #fff;
+  padding-left: 10px;
+  font-size: 20px;
+  vertical-align:middle;
+}
+.p-title {
+  text-align: left;
+  line-height: 0;
+  width: 140px;
+  display: inline-block;
+
+}
+.operation {
+  display: inline-block;
+  text-align: right;
+}
+.title .button {
+  display: inline-block;
+}
+ul {
+  list-style:none;
+}
+.container {
+  margin-top: 20px;
+}
+ul.productsPreview li{
+  display:inline-block;
+
+}
+.evaluation {
+  width: 400px;
+  display:inline-block;
+
+}
+ul.recommendedProducts{
+  padding: 0px;
+}
+ul.recommendedProducts li{
+  display:inline-block;
+}
+
+ul.products li {
+  font-family: "Baskerville";
+  display:inline-block;
+}
+ul.category li {
+  font-family: "Baskerville";
+  font-size: 20px;
+}
+ul.category {
+  font-family: "Baskerville";
+  color:#59697e;
+}
+
+.imageDetail, .detail {
+  vertical-align: top;
+}
+.imageDetail {
+  display:inline-block;
+  margin: 0 auto;
+  margin-top: 10px;
+
+  margin-right: 50px;
+  overflow: hidden;
+}
+.detail {
+  display:inline-block;
+  margin-top: 0px;
+  width: 500px;
+  border-top: 0px;
+}
+.item {
+  font-family: "Baskerville";
+  width:260px;
+  text-align:center;
+}
+
+.wrap {
+  display:inline-block;
+}
+
+p {
+  font-family: "Baskerville";
+  font-size:15px;
+  color:#59697e;
+}
+.ask {
+  text-align:center;
+}
+#view {
+  font-family: "Baskerville";
+  font-size: 25px;
+  margin-right: 10px;
+  color:#dabb11;
+}
+.filter {
+  font-family: "Baskerville";
+  height:600px;
+  width:220px;
+  float:left;
+  margin-right:50px;
+}
+.row {
+  width: 100%;
+  max-width: 1060px;
+  min-width: 755px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  overflow: hidden;
+  
+}
+.container {
+  width: 100%;
+  max-width: 1060px;
+  min-width: 755px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  overflow: hidden;
+}
+.realHeader {
+  width: 100%;
+  max-width: 1060px;
+  min-width: 755px;
+  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
+}
+.logo {
+  margin-left: 0px;
+}
+.wrapLogo {
+  text-align: right;
+}
+#catHomepage {
+  width:100%;
+}
